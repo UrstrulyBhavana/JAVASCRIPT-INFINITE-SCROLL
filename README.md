@@ -7,6 +7,6 @@ Note: HotLinking---> scroll down
 Authorization-->https://api.unsplash.com/photos/?client_id=YOUR_ACCESS_KEY
 paste access key here to access image api.
 2. loading.io-->select one style--->control color if needed--->SVG-->Animated-->Download---->add it to vs code
-Customized Loading Icon
+Customized Loading Icon----> Loader SVG  given to img.src
 
 
