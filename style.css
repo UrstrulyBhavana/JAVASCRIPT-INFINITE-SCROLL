@@ -1,0 +1,48 @@
+
+
+body
+{
+    margin: 0px;
+    background-color: grey;
+}
+
+.container
+{
+    width: 600px;
+    height: 800px;
+}
+
+.imagecontainer
+{
+    width: 100%;
+}
+
+.imagecontainer > img
+{
+    width: 100%;
+    margin-left: 550px;
+    margin-top: 10px;
+}
+
+h2
+{
+    margin-left: 720px;
+    font-family: sans-serif;
+    opacity: 0.4;
+    font-style: italic;
+}
+
+
+@media screen and (max-width: 600px) 
+{
+    .imagecontainer > img    
+    {
+        width: 390px;
+    }
+}
+
+
+#loader
+{
+    margin-left: 750px;
+}
